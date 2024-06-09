@@ -31,14 +31,14 @@ main{
 
     position: relative;
     background-color: rgb(19, 19, 19);
-    width: 82%;
+    width: 88%;
     height: 27%;
 }
 
 #teste{
     position: absolute;
     background: linear-gradient(-250deg, rgb(193, 0, 252) 0%, rgb(0, 132, 255) 100%);;
-    width: 84%;
+    width: 90%;
     height: 28.5%;
 }
 
