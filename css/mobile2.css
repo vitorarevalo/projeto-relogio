@@ -31,14 +31,14 @@ main{
 
     position: relative;
     background-color: rgb(19, 19, 19);
-    width: 80%;
+    width: 82%;
     height: 27%;
 }
 
 #teste{
     position: absolute;
     background: linear-gradient(-250deg, rgb(193, 0, 252) 0%, rgb(0, 132, 255) 100%);;
-    width: 82%;
+    width: 84%;
     height: 28.5%;
 }
 
@@ -55,7 +55,7 @@ main::before {
 }
 
 main div {
-    width: 1.5ch;
+    width: 1.4ch;
     text-align: center;
 }
 
